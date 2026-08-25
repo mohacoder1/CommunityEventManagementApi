@@ -1,0 +1,15 @@
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.deps.json
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.runtimeconfig.json
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.dll
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.pdb
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.AssemblyReference.cache
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfoInputs.cache
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfo.cs
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.sourcelink.json
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.dll
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\refint\DataAcessLayer.dll
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.pdb
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.genruntimeconfig.cache
+D:\my-github\CommunityEventManagementApi\Backend\DataAcessLayer\obj\Debug\net8.0\ref\DataAcessLayer.dll
